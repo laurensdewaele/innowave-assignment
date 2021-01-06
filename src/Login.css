@@ -1,20 +1,20 @@
 section {
-    display:  flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
 }
 
 label:not(:first-child) {
-    margin-top: 1rem;
+  margin-top: 1rem;
 }
 
 button {
-    margin-top: 1rem;
+  margin-top: 1rem;
 }
 
 .valid {
-    color: green;
+  color: green;
 }
 
 .invalid {
-    color: red;
+  color: red;
 }
